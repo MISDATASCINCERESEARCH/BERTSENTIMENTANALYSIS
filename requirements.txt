@@ -1,0 +1,34 @@
+absl-py==0.14.0
+alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+anaconda-client==1.7.2
+
+comtypes==1.1.9
+conda==4.10.1
+conda-build==3.21.4
+
+huggingface-hub==0.0.17
+
+jupyter==1.0.0
+
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+keyring @ file:///C:/ci/keyring_1614616910860/work
+
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+
+
+numpy==1.19.5
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+
+pandas @ file:///C:/ci/pandas_1618365634936/work
+pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
+paramiko @ file:///tmp/build/80754af9/paramiko_1598886428689/work
+
+
+
+
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.6.0
+tensorflow-estimator==2.6.0
